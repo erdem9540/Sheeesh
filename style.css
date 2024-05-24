@@ -1,0 +1,40 @@
+body {
+  padding: 0;
+  margin: 0;
+  color: white;
+  overflow: hidden;
+}
+.page {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 0 4rem;
+}
+.page a {
+  padding: 8px 20px;
+  background-color: black;
+  text-decoration: none;
+  color: white;
+  border-radius: 5px;
+}
+#page-1 {
+  background: url(28350408591_33df20c0d7_b.jpg) no-repeat center center/cover;
+}
+#page-2 {
+  background: url(360_F_648157794_XN7DLbfPCJXDEkitq3zXh76ZRAHYvT2x.jpg)
+    no-repeat center center/cover;
+}
+#page-3 {
+  background: url(japan-tokyo-1280x853.jpg) no-repeat center center/cover;
+}
+#page-4 {
+  background: url(Miyajima-Shrine-Hiroshima-shutterstock-2048x1367.jpg.webp)
+    no-repeat center center/cover;
+}
+#page-5 {
+  background: url(Traditional-Japanese-towns-10-1024x731.jpg) no-repeat center
+    center/cover;
+}
